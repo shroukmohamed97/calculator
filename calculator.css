@@ -1,0 +1,30 @@
+body {
+background-color: black;
+text-align: center;
+margin-top: 1cm;
+
+}
+
+  
+
+input{
+
+  height:1.5cm ;
+  width: 8.2cm ;
+  margin-bottom: 0.5cm;
+  font-size: 1cm;
+  
+  }
+button {
+  height: 2cm;
+  width: 2cm;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.main {
+  height: 2cm;
+  width: 4.1cm;
+  font-size: 20px;
+  padding: 10px;
+}
