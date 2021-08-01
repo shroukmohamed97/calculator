@@ -1,4 +1,4 @@
-const regex = new RegExp('^[0-9/+/-/*/.//]*$');
+const regex = new RegExp('^[0-9/+-/*/.//]*$');
 
 let screenString = "" ; 
 var screenInput ;
